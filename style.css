@@ -1,0 +1,12 @@
+.logo{
+    background: linear-gradient(45deg, #00d9da66, #ff275180);
+}
+caption{
+    
+    white-space: nowrap; 
+    text-align: center; 
+}
+td, th {
+border: 1px solid #000;
+padding: 8px;
+text-align: center;}
